@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/2019-2-Atom-Frontend-V-Kisel/static/css/main.52e8ecdb.chunk.css",
+    "main.js": "/2019-2-Atom-Frontend-V-Kisel/static/js/main.d5545802.chunk.js",
+    "main.js.map": "/2019-2-Atom-Frontend-V-Kisel/static/js/main.d5545802.chunk.js.map",
+    "runtime-main.js": "/2019-2-Atom-Frontend-V-Kisel/static/js/runtime-main.e1283f66.js",
+    "runtime-main.js.map": "/2019-2-Atom-Frontend-V-Kisel/static/js/runtime-main.e1283f66.js.map",
+    "static/js/2.ac5235dd.chunk.js": "/2019-2-Atom-Frontend-V-Kisel/static/js/2.ac5235dd.chunk.js",
+    "static/js/2.ac5235dd.chunk.js.map": "/2019-2-Atom-Frontend-V-Kisel/static/js/2.ac5235dd.chunk.js.map",
+    "index.html": "/2019-2-Atom-Frontend-V-Kisel/index.html",
+    "precache-manifest.77591a910e7fb798779f360dd93e49b1.js": "/2019-2-Atom-Frontend-V-Kisel/precache-manifest.77591a910e7fb798779f360dd93e49b1.js",
+    "service-worker.js": "/2019-2-Atom-Frontend-V-Kisel/service-worker.js",
+    "static/css/main.52e8ecdb.chunk.css.map": "/2019-2-Atom-Frontend-V-Kisel/static/css/main.52e8ecdb.chunk.css.map",
+    "static/js/2.ac5235dd.chunk.js.LICENSE": "/2019-2-Atom-Frontend-V-Kisel/static/js/2.ac5235dd.chunk.js.LICENSE",
+    "static/media/fonts.css": "/2019-2-Atom-Frontend-V-Kisel/static/media/VoiceoftheHighlander.f6e5ffd2.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e1283f66.js",
+    "static/js/2.ac5235dd.chunk.js",
+    "static/css/main.52e8ecdb.chunk.css",
+    "static/js/main.d5545802.chunk.js"
+  ]
+}
